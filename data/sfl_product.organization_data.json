@@ -1,0 +1,910 @@
+[{
+  "_id": {
+    "$oid": "66111924cc8e95e69c0ba153"
+  },
+  "status": 1,
+  "valid_from": {
+    "$date": "2024-04-19T00:00:00.000Z"
+  },
+  "valid_to": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "email_id": "iiotb@yahoo.com",
+  "mobile_no": "9952774914",
+  "created_by": {
+    "$oid": "66123fc04c42127bb0a65750"
+  },
+  "super_admin": {
+    "$oid": "661114f4ad6de22d9ab907d3"
+  },
+  "organization_name": "Indian Institute of Technology Bombay (Mumbai)",
+  "organization_logo": "",
+  "country": "India",
+  "state": "TamilNadu",
+  "city": "Coimbatore",
+  "address": "saASasas",
+  "social_profile": [
+    "www.google.com"
+  ],
+  "linkedin_url": "https://www.youtube.com/watch?v=k6604pV65KY&list=RDYVkUvmDQ3HY&index=27",
+  "email_template": [
+    "kpr123@gmail.com"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66111924cc8e95e69c0ba154"
+  },
+  "status": 1,
+  "valid_from": {
+    "$date": "2024-04-19T00:00:00.000Z"
+  },
+  "valid_to": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "email_id": "iiotm@gmail.com",
+  "mobile_no": "9952774915",
+  "created_by": {
+    "$oid": "66123fc04c42127bb0a65750"
+  },
+  "super_admin": {
+    "$oid": "661114f4ad6de22d9ab907d3"
+  },
+  "organization_name": "Indian Institute of Technology Madras (Chennai)",
+  "organization_logo": "",
+  "country": "India",
+  "state": "TamilNadu",
+  "city": "Coimbatore",
+  "address": "saASasas",
+  "social_profile": [
+    "www.google.com"
+  ],
+  "linkedin_url": "https://www.youtube.com/watch?v=k6604pV65KY&list=RDYVkUvmDQ3HY&index=27",
+  "email_template": [
+    "kpr@yahoo.com"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66111924cc8e95e69c0ba155"
+  },
+  "status": 1,
+  "valid_from": {
+    "$date": "2024-03-13T00:00:00.000Z"
+  },
+  "valid_to": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "email_id": "iiotk@gmail.com",
+  "mobile_no": "9952774916",
+  "created_by": {
+    "$oid": "66123fc04c42127bb0a65750"
+  },
+  "super_admin": {
+    "$oid": "661114f4ad6de22d9ab907d3"
+  },
+  "organization_name": "Indian Institute of Technology Kanpur (Kanpur)",
+  "organization_logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AZOHO.svg&psig=AOvVaw1OzdTJN61SOfAgAfdYIXyc&ust=1710845037278000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDl5MfQ_YQDFQAAAAAdAAAAABAJ",
+  "country": "India",
+  "state": "TamilNadu",
+  "city": "",
+  "address": "",
+  "social_profile": [],
+  "linkedin_url": "",
+  "email_template": []
+},
+{
+  "_id": {
+    "$oid": "66111924cc8e95e69c0ba156"
+  },
+  "status": 1,
+  "valid_from": {
+    "$date": "2024-03-13T00:00:00.000Z"
+  },
+  "valid_to": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "email_id": "iiotd@gmail.com",
+  "mobile_no": "9952774917",
+  "created_by": {
+    "$oid": "66123fc04c42127bb0a65750"
+  },
+  "super_admin": {
+    "$oid": "661114f4ad6de22d9ab907d3"
+  },
+  "organization_name": "Indian Institute of Technology Delhi (New Delhi)",
+  "organization_logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.acsmb.com%2F&psig=AOvVaw1BxjAGfIObDMjhM0f_6UD3&ust=1710844931243000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPicupXQ_YQDFQAAAAAdAAAAABAE",
+  "country": "India",
+  "state": "TamilNadu",
+  "city": "",
+  "address": "",
+  "social_profile": [],
+  "linkedin_url": "",
+  "email_template": []
+},
+{
+  "_id": {
+    "$oid": "66111924cc8e95e69c0ba157"
+  },
+  "status": 1,
+  "valid_from": {
+    "$date": "2024-03-13T00:00:00.000Z"
+  },
+  "valid_to": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "email_id": "uod@gmail.com",
+  "mobile_no": "9952774918",
+  "created_by": {
+    "$oid": "66123fc04c42127bb0a65750"
+  },
+  "super_admin": {
+    "$oid": "661114f4ad6de22d9ab907d3"
+  },
+  "organization_name": "University of Delhi (Delhi)",
+  "organization_logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ATata_Consultancy_Services_Logo.svg&psig=AOvVaw2zh8Rl2LJDryV6Ku_3WmiR&ust=1710845002437000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMiwprfQ_YQDFQAAAAAdAAAAABAE",
+  "country": "India",
+  "state": "TamilNadu",
+  "city": "",
+  "address": "",
+  "social_profile": [],
+  "linkedin_url": "",
+  "email_template": []
+},
+{
+  "_id": {
+    "$oid": "66111924cc8e95e69c0ba158"
+  },
+  "status": 1,
+  "valid_from": {
+    "$date": "2024-03-13T00:00:00.000Z"
+  },
+  "valid_to": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "email_id": "au@gmail.com",
+  "mobile_no": "9952774919",
+  "created_by": {
+    "$oid": "66123fc04c42127bb0a65750"
+  },
+  "super_admin": {
+    "$oid": "661114f4ad6de22d9ab907d3"
+  },
+  "organization_name": "Anna University (Chennai and other locations)",
+  "organization_logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AZOHO.svg&psig=AOvVaw1OzdTJN61SOfAgAfdYIXyc&ust=1710845037278000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDl5MfQ_YQDFQAAAAAdAAAAABAJ",
+  "country": "India",
+  "state": "TamilNadu",
+  "city": "",
+  "address": "",
+  "social_profile": [],
+  "linkedin_url": "",
+  "email_template": []
+},
+{
+  "_id": {
+    "$oid": "66111924cc8e95e69c0ba159"
+  },
+  "status": 1,
+  "valid_from": {
+    "$date": "2024-03-13T00:00:00.000Z"
+  },
+  "valid_to": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "email_id": "au@gmail.com",
+  "mobile_no": "9952774920",
+  "created_by": {
+    "$oid": "66123fc04c42127bb0a65750"
+  },
+  "super_admin": {
+    "$oid": "661114f4ad6de22d9ab907d3"
+  },
+  "organization_name": "Amity University (Noida)",
+  "organization_logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.acsmb.com%2F&psig=AOvVaw1BxjAGfIObDMjhM0f_6UD3&ust=1710844931243000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPicupXQ_YQDFQAAAAAdAAAAABAE",
+  "country": "India",
+  "state": "TamilNadu",
+  "city": "",
+  "address": "",
+  "social_profile": [],
+  "linkedin_url": "",
+  "email_template": []
+},
+{
+  "_id": {
+    "$oid": "66111924cc8e95e69c0ba15a"
+  },
+  "status": 1,
+  "valid_from": {
+    "$date": "2024-03-13T00:00:00.000Z"
+  },
+  "valid_to": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "email_id": "uom@gmail.com",
+  "mobile_no": "9952774921",
+  "created_by": {
+    "$oid": "66123fc04c42127bb0a65750"
+  },
+  "super_admin": {
+    "$oid": "661114f4ad6de22d9ab907d3"
+  },
+  "organization_name": "University of Mumbai (Mumbai)",
+  "organization_logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ATata_Consultancy_Services_Logo.svg&psig=AOvVaw2zh8Rl2LJDryV6Ku_3WmiR&ust=1710845002437000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMiwprfQ_YQDFQAAAAAdAAAAABAE",
+  "country": "India",
+  "state": "TamilNadu",
+  "city": "",
+  "address": "",
+  "social_profile": [],
+  "linkedin_url": "",
+  "email_template": []
+},
+{
+  "_id": {
+    "$oid": "66111924cc8e95e69c0ba15b"
+  },
+  "status": 1,
+  "valid_from": {
+    "$date": "2024-03-13T00:00:00.000Z"
+  },
+  "valid_to": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "email_id": "mu@gmail.com",
+  "mobile_no": "9952774922",
+  "created_by": {
+    "$oid": "66123fc04c42127bb0a65750"
+  },
+  "super_admin": {
+    "$oid": "661114f4ad6de22d9ab907d3"
+  },
+  "organization_name": "Manipal University (Manipal and other locations)",
+  "organization_logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AZOHO.svg&psig=AOvVaw1OzdTJN61SOfAgAfdYIXyc&ust=1710845037278000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDl5MfQ_YQDFQAAAAAdAAAAABAJ",
+  "country": "India",
+  "state": "TamilNadu",
+  "city": "",
+  "address": "",
+  "social_profile": [],
+  "linkedin_url": "",
+  "email_template": []
+},
+{
+  "_id": {
+    "$oid": "66111924cc8e95e69c0ba15c"
+  },
+  "status": 1,
+  "valid_from": {
+    "$date": "2024-03-13T00:00:00.000Z"
+  },
+  "valid_to": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "email_id": "iiotk@gmail.com",
+  "mobile_no": "9952774923",
+  "created_by": {
+    "$oid": "66123fc04c42127bb0a65750"
+  },
+  "super_admin": {
+    "$oid": "661114f4ad6de22d9ab907d3"
+  },
+  "organization_name": "Indian Institute of Technology Kharagpur (Kharagpur)",
+  "organization_logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.acsmb.com%2F&psig=AOvVaw1BxjAGfIObDMjhM0f_6UD3&ust=1710844931243000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPicupXQ_YQDFQAAAAAdAAAAABAE",
+  "country": "India",
+  "state": "TamilNadu",
+  "city": "",
+  "address": "",
+  "social_profile": [],
+  "linkedin_url": "",
+  "email_template": []
+},
+{
+  "_id": {
+    "$oid": "66111924cc8e95e69c0ba15d"
+  },
+  "status": 1,
+  "valid_from": {
+    "$date": "2024-03-13T00:00:00.000Z"
+  },
+  "valid_to": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "email_id": "biotas@gmail.com",
+  "mobile_no": "9952774924",
+  "created_by": {
+    "$oid": "66123fc04c42127bb0a65750"
+  },
+  "super_admin": {
+    "$oid": "661114f4ad6de22d9ab907d4"
+  },
+  "organization_name": "Birla Institute of Technology and Science (Pilani and other locations)",
+  "organization_logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ATata_Consultancy_Services_Logo.svg&psig=AOvVaw2zh8Rl2LJDryV6Ku_3WmiR&ust=1710845002437000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMiwprfQ_YQDFQAAAAAdAAAAABAE",
+  "country": "India",
+  "state": "TamilNadu",
+  "city": "",
+  "address": "",
+  "social_profile": [],
+  "linkedin_url": "",
+  "email_template": []
+},
+{
+  "_id": {
+    "$oid": "66111924cc8e95e69c0ba15e"
+  },
+  "status": 1,
+  "valid_from": {
+    "$date": "2024-03-13T00:00:00.000Z"
+  },
+  "valid_to": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "email_id": "vtu@gmail.com",
+  "mobile_no": "9952774925",
+  "created_by": {
+    "$oid": "66123fc04c42127bb0a65750"
+  },
+  "super_admin": {
+    "$oid": "661114f4ad6de22d9ab907d4"
+  },
+  "organization_name": "Visveswaraiah Technological University (Belgaum)",
+  "organization_logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AZOHO.svg&psig=AOvVaw1OzdTJN61SOfAgAfdYIXyc&ust=1710845037278000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDl5MfQ_YQDFQAAAAAdAAAAABAJ",
+  "country": "India",
+  "state": "TamilNadu",
+  "city": "",
+  "address": "",
+  "social_profile": [],
+  "linkedin_url": "",
+  "email_template": []
+},
+{
+  "_id": {
+    "$oid": "66111924cc8e95e69c0ba15f"
+  },
+  "status": 1,
+  "valid_from": {
+    "$date": "2024-03-13T00:00:00.000Z"
+  },
+  "valid_to": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "email_id": "avv@gmail.com",
+  "mobile_no": "9952774926",
+  "created_by": {
+    "$oid": "66123fc04c42127bb0a65750"
+  },
+  "super_admin": {
+    "$oid": "661114f4ad6de22d9ab907d4"
+  },
+  "organization_name": "Amrita Vishwa Vidyapeetham (Coimbatore and other locations)",
+  "organization_logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.acsmb.com%2F&psig=AOvVaw1BxjAGfIObDMjhM0f_6UD3&ust=1710844931243000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPicupXQ_YQDFQAAAAAdAAAAABAE",
+  "country": "India",
+  "state": "TamilNadu",
+  "city": "",
+  "address": "",
+  "social_profile": [],
+  "linkedin_url": "",
+  "email_template": []
+},
+{
+  "_id": {
+    "$oid": "66111924cc8e95e69c0ba160"
+  },
+  "status": 1,
+  "valid_from": {
+    "$date": "2024-03-13T00:00:00.000Z"
+  },
+  "valid_to": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "email_id": "jnu@gmail.com",
+  "mobile_no": "9952774927",
+  "created_by": {
+    "$oid": "66123fc04c42127bb0a65750"
+  },
+  "super_admin": {
+    "$oid": "661114f4ad6de22d9ab907d4"
+  },
+  "organization_name": "Jawaharlal Nehru University (New Delhi)",
+  "organization_logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ATata_Consultancy_Services_Logo.svg&psig=AOvVaw2zh8Rl2LJDryV6Ku_3WmiR&ust=1710845002437000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMiwprfQ_YQDFQAAAAAdAAAAABAE",
+  "country": "India",
+  "state": "TamilNadu",
+  "city": "",
+  "address": "",
+  "social_profile": [],
+  "linkedin_url": "",
+  "email_template": []
+},
+{
+  "_id": {
+    "$oid": "66111924cc8e95e69c0ba161"
+  },
+  "status": 1,
+  "valid_from": {
+    "$date": "2024-03-13T00:00:00.000Z"
+  },
+  "valid_to": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "email_id": "niott@gmail.com",
+  "mobile_no": "9952774928",
+  "created_by": {
+    "$oid": "66123fc04c42127bb0a65750"
+  },
+  "super_admin": {
+    "$oid": "661114f4ad6de22d9ab907d4"
+  },
+  "organization_name": "National Institute of Technology, Tiruchirappalli (Tiruchirappalli)",
+  "organization_logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AZOHO.svg&psig=AOvVaw1OzdTJN61SOfAgAfdYIXyc&ust=1710845037278000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDl5MfQ_YQDFQAAAAAdAAAAABAJ",
+  "country": "India",
+  "state": "TamilNadu",
+  "city": "",
+  "address": "",
+  "social_profile": [],
+  "linkedin_url": "",
+  "email_template": []
+},
+{
+  "_id": {
+    "$oid": "66111924cc8e95e69c0ba162"
+  },
+  "status": 1,
+  "valid_from": {
+    "$date": "2024-03-13T00:00:00.000Z"
+  },
+  "valid_to": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "email_id": "iiotr@gmail.com",
+  "mobile_no": "9952774929",
+  "created_by": {
+    "$oid": "66123fc04c42127bb0a65750"
+  },
+  "super_admin": {
+    "$oid": "661114f4ad6de22d9ab907d4"
+  },
+  "organization_name": "Indian Institute of Technology Roorkee (Roorkee)",
+  "organization_logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.acsmb.com%2F&psig=AOvVaw1BxjAGfIObDMjhM0f_6UD3&ust=1710844931243000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPicupXQ_YQDFQAAAAAdAAAAABAE",
+  "country": "India",
+  "state": "TamilNadu",
+  "city": "",
+  "address": "",
+  "social_profile": [],
+  "linkedin_url": "",
+  "email_template": []
+},
+{
+  "_id": {
+    "$oid": "66111924cc8e95e69c0ba163"
+  },
+  "status": 1,
+  "valid_from": {
+    "$date": "2024-03-13T00:00:00.000Z"
+  },
+  "valid_to": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "email_id": "bhu@gmail.com",
+  "mobile_no": "9952774930",
+  "created_by": {
+    "$oid": "66123fc04c42127bb0a65750"
+  },
+  "super_admin": {
+    "$oid": "661114f4ad6de22d9ab907d4"
+  },
+  "organization_name": "Banaras Hindu University (Varanasi)",
+  "organization_logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ATata_Consultancy_Services_Logo.svg&psig=AOvVaw2zh8Rl2LJDryV6Ku_3WmiR&ust=1710845002437000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMiwprfQ_YQDFQAAAAAdAAAAABAE",
+  "country": "India",
+  "state": "TamilNadu",
+  "city": "",
+  "address": "",
+  "social_profile": [],
+  "linkedin_url": "",
+  "email_template": []
+},
+{
+  "_id": {
+    "$oid": "66111924cc8e95e69c0ba164"
+  },
+  "status": 1,
+  "valid_from": {
+    "$date": "2024-03-13T00:00:00.000Z"
+  },
+  "valid_to": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "email_id": "dtu@gmail.com",
+  "mobile_no": "9952774931",
+  "created_by": {
+    "$oid": "66123fc04c42127bb0a65750"
+  },
+  "super_admin": {
+    "$oid": "661114f4ad6de22d9ab907d4"
+  },
+  "organization_name": "Delhi Technological University (Delhi)",
+  "organization_logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AZOHO.svg&psig=AOvVaw1OzdTJN61SOfAgAfdYIXyc&ust=1710845037278000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDl5MfQ_YQDFQAAAAAdAAAAABAJ",
+  "country": "India",
+  "state": "TamilNadu",
+  "city": "",
+  "address": "",
+  "social_profile": [],
+  "linkedin_url": "",
+  "email_template": []
+},
+{
+  "_id": {
+    "$oid": "66111924cc8e95e69c0ba165"
+  },
+  "status": 1,
+  "valid_from": {
+    "$date": "2024-03-13T00:00:00.000Z"
+  },
+  "valid_to": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "email_id": "uom@gmail.com",
+  "mobile_no": "9952774932",
+  "created_by": {
+    "$oid": "66123fc04c42127bb0a65750"
+  },
+  "super_admin": {
+    "$oid": "661114f4ad6de22d9ab907d4"
+  },
+  "organization_name": "University of Madras (Chennai)",
+  "organization_logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.acsmb.com%2F&psig=AOvVaw1BxjAGfIObDMjhM0f_6UD3&ust=1710844931243000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPicupXQ_YQDFQAAAAAdAAAAABAE",
+  "country": "India",
+  "state": "TamilNadu",
+  "city": "",
+  "address": "",
+  "social_profile": [],
+  "linkedin_url": "",
+  "email_template": []
+},
+{
+  "_id": {
+    "$oid": "66111924cc8e95e69c0ba166"
+  },
+  "status": 1,
+  "valid_from": {
+    "$date": "2024-03-13T00:00:00.000Z"
+  },
+  "valid_to": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "email_id": "niotr@gmail.com",
+  "mobile_no": "9952774933",
+  "created_by": {
+    "$oid": "66123fc04c42127bb0a65750"
+  },
+  "super_admin": {
+    "$oid": "661114f4ad6de22d9ab907d4"
+  },
+  "organization_name": "National Institute of Technology, Rourkela (Rourkela)",
+  "organization_logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ATata_Consultancy_Services_Logo.svg&psig=AOvVaw2zh8Rl2LJDryV6Ku_3WmiR&ust=1710845002437000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMiwprfQ_YQDFQAAAAAdAAAAABAE",
+  "country": "India",
+  "state": "TamilNadu",
+  "city": "",
+  "address": "",
+  "social_profile": [],
+  "linkedin_url": "",
+  "email_template": []
+},
+{
+  "_id": {
+    "$oid": "66111924cc8e95e69c0ba167"
+  },
+  "status": 1,
+  "valid_from": {
+    "$date": "2024-03-13T00:00:00.000Z"
+  },
+  "valid_to": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "email_id": "iiotg@gmail.com",
+  "mobile_no": "9952774934",
+  "created_by": {
+    "$oid": "66123fc04c42127bb0a65750"
+  },
+  "super_admin": {
+    "$oid": "661114f4ad6de22d9ab907d5"
+  },
+  "organization_name": "Indian Institute of Technology Guwahati (Guwahati)",
+  "organization_logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AZOHO.svg&psig=AOvVaw1OzdTJN61SOfAgAfdYIXyc&ust=1710845037278000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDl5MfQ_YQDFQAAAAAdAAAAABAJ",
+  "country": "India",
+  "state": "TamilNadu",
+  "city": "",
+  "address": "",
+  "social_profile": [],
+  "linkedin_url": "",
+  "email_template": []
+},
+{
+  "_id": {
+    "$oid": "66111924cc8e95e69c0ba168"
+  },
+  "status": 1,
+  "valid_from": {
+    "$date": "2024-03-13T00:00:00.000Z"
+  },
+  "valid_to": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "email_id": "niotc@gmail.com",
+  "mobile_no": "9952774935",
+  "created_by": {
+    "$oid": "66123fc04c42127bb0a65750"
+  },
+  "super_admin": {
+    "$oid": "661114f4ad6de22d9ab907d5"
+  },
+  "organization_name": "National Institute of Technology Calicut (Calicut)",
+  "organization_logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.acsmb.com%2F&psig=AOvVaw1BxjAGfIObDMjhM0f_6UD3&ust=1710844931243000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPicupXQ_YQDFQAAAAAdAAAAABAE",
+  "country": "India",
+  "state": "TamilNadu",
+  "city": "",
+  "address": "",
+  "social_profile": [],
+  "linkedin_url": "",
+  "email_template": []
+},
+{
+  "_id": {
+    "$oid": "66111924cc8e95e69c0ba169"
+  },
+  "status": 1,
+  "valid_from": {
+    "$date": "2024-03-13T00:00:00.000Z"
+  },
+  "valid_to": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "email_id": "isi@gmail.com",
+  "mobile_no": "9952774936",
+  "created_by": {
+    "$oid": "66123fc04c42127bb0a65750"
+  },
+  "super_admin": {
+    "$oid": "661114f4ad6de22d9ab907d5"
+  },
+  "organization_name": "Indian Statistical Institute (Kolkata and other locations)",
+  "organization_logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ATata_Consultancy_Services_Logo.svg&psig=AOvVaw2zh8Rl2LJDryV6Ku_3WmiR&ust=1710845002437000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMiwprfQ_YQDFQAAAAAdAAAAABAE",
+  "country": "India",
+  "state": "TamilNadu",
+  "city": "",
+  "address": "",
+  "social_profile": [],
+  "linkedin_url": "",
+  "email_template": []
+},
+{
+  "_id": {
+    "$oid": "66111924cc8e95e69c0ba16a"
+  },
+  "status": 1,
+  "valid_from": {
+    "$date": "2024-03-13T00:00:00.000Z"
+  },
+  "valid_to": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "email_id": "nlsoiu@gmail.com",
+  "mobile_no": "9952774937",
+  "created_by": {
+    "$oid": "66123fc04c42127bb0a65750"
+  },
+  "super_admin": {
+    "$oid": "661114f4ad6de22d9ab907d5"
+  },
+  "organization_name": "National Law School of India University (Bangalore)",
+  "organization_logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AZOHO.svg&psig=AOvVaw1OzdTJN61SOfAgAfdYIXyc&ust=1710845037278000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDl5MfQ_YQDFQAAAAAdAAAAABAJ",
+  "country": "India",
+  "state": "TamilNadu",
+  "city": "",
+  "address": "",
+  "social_profile": [],
+  "linkedin_url": "",
+  "email_template": []
+},
+{
+  "_id": {
+    "$oid": "66111924cc8e95e69c0ba16b"
+  },
+  "status": 1,
+  "valid_from": {
+    "$date": "2024-03-13T00:00:00.000Z"
+  },
+  "valid_to": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "email_id": "ju@gmail.com",
+  "mobile_no": "9952774938",
+  "created_by": {
+    "$oid": "66123fc04c42127bb0a65750"
+  },
+  "super_admin": {
+    "$oid": "661114f4ad6de22d9ab907d5"
+  },
+  "organization_name": "Jadavpur University (Kolkata)",
+  "organization_logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.acsmb.com%2F&psig=AOvVaw1BxjAGfIObDMjhM0f_6UD3&ust=1710844931243000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPicupXQ_YQDFQAAAAAdAAAAABAE",
+  "country": "India",
+  "state": "TamilNadu",
+  "city": "",
+  "address": "",
+  "social_profile": [],
+  "linkedin_url": "",
+  "email_template": []
+},
+{
+  "_id": {
+    "$oid": "66111924cc8e95e69c0ba16c"
+  },
+  "status": 1,
+  "valid_from": {
+    "$date": "2024-03-13T00:00:00.000Z"
+  },
+  "valid_to": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "email_id": "iioft@gmail.com",
+  "mobile_no": "9952774939",
+  "created_by": {
+    "$oid": "66123fc04c42127bb0a65750"
+  },
+  "super_admin": {
+    "$oid": "661114f4ad6de22d9ab907d5"
+  },
+  "organization_name": "Indian Institute of Foreign Trade (New Delhi)",
+  "organization_logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ATata_Consultancy_Services_Logo.svg&psig=AOvVaw2zh8Rl2LJDryV6Ku_3WmiR&ust=1710845002437000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMiwprfQ_YQDFQAAAAAdAAAAABAE",
+  "country": "India",
+  "state": "TamilNadu",
+  "city": "",
+  "address": "",
+  "social_profile": [],
+  "linkedin_url": "",
+  "email_template": []
+},
+{
+  "_id": {
+    "$oid": "66111924cc8e95e69c0ba16d"
+  },
+  "status": 1,
+  "valid_from": {
+    "$date": "2024-03-13T00:00:00.000Z"
+  },
+  "valid_to": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "email_id": "ggsiu@gmail.com",
+  "mobile_no": "9952774940",
+  "created_by": {
+    "$oid": "66123fc04c42127bb0a65750"
+  },
+  "super_admin": {
+    "$oid": "661114f4ad6de22d9ab907d5"
+  },
+  "organization_name": "Guru Gobind Singh Indraprastha University (Delhi)",
+  "organization_logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AZOHO.svg&psig=AOvVaw1OzdTJN61SOfAgAfdYIXyc&ust=1710845037278000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDl5MfQ_YQDFQAAAAAdAAAAABAJ",
+  "country": "India",
+  "state": "TamilNadu",
+  "city": "",
+  "address": "",
+  "social_profile": [],
+  "linkedin_url": "",
+  "email_template": []
+},
+{
+  "_id": {
+    "$oid": "66111924cc8e95e69c0ba16e"
+  },
+  "status": 1,
+  "valid_from": {
+    "$date": "2024-03-13T00:00:00.000Z"
+  },
+  "valid_to": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "email_id": "lpu@gmail.com",
+  "mobile_no": "9952774941",
+  "created_by": {
+    "$oid": "66123fc04c42127bb0a65750"
+  },
+  "super_admin": {
+    "$oid": "661114f4ad6de22d9ab907d5"
+  },
+  "organization_name": "Lovely Professional University (Phagwara)",
+  "organization_logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.acsmb.com%2F&psig=AOvVaw1BxjAGfIObDMjhM0f_6UD3&ust=1710844931243000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPicupXQ_YQDFQAAAAAdAAAAABAE",
+  "country": "India",
+  "state": "TamilNadu",
+  "city": "",
+  "address": "",
+  "social_profile": [],
+  "linkedin_url": "",
+  "email_template": []
+},
+{
+  "_id": {
+    "$oid": "66111924cc8e95e69c0ba16f"
+  },
+  "status": 1,
+  "valid_from": {
+    "$date": "2024-03-13T00:00:00.000Z"
+  },
+  "valid_to": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "email_id": "jntu@gmail.com",
+  "mobile_no": "9952774942",
+  "created_by": {
+    "$oid": "66123fc04c42127bb0a65750"
+  },
+  "super_admin": {
+    "$oid": "661114f4ad6de22d9ab907d5"
+  },
+  "organization_name": "Jawaharlal Nehru Technological University (Hyderabad and other locations)",
+  "organization_logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ATata_Consultancy_Services_Logo.svg&psig=AOvVaw2zh8Rl2LJDryV6Ku_3WmiR&ust=1710845002437000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMiwprfQ_YQDFQAAAAAdAAAAABAE",
+  "country": "India",
+  "state": "TamilNadu",
+  "city": "",
+  "address": "",
+  "social_profile": [],
+  "linkedin_url": "",
+  "email_template": []
+},
+{
+  "_id": {
+    "$oid": "66111924cc8e95e69c0ba170"
+  },
+  "status": 1,
+  "valid_from": {
+    "$date": "2024-03-13T00:00:00.000Z"
+  },
+  "valid_to": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "email_id": "uptu@gmail.com",
+  "mobile_no": "9952774943",
+  "created_by": {
+    "$oid": "66123fc04c42127bb0a65750"
+  },
+  "super_admin": {
+    "$oid": "661114f4ad6de22d9ab907d5"
+  },
+  "organization_name": "Uttar Pradesh Technical University (Lucknow)",
+  "organization_logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AZOHO.svg&psig=AOvVaw1OzdTJN61SOfAgAfdYIXyc&ust=1710845037278000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDl5MfQ_YQDFQAAAAAdAAAAABAJ",
+  "country": "India",
+  "state": "TamilNadu",
+  "city": "",
+  "address": "",
+  "social_profile": [],
+  "linkedin_url": "",
+  "email_template": []
+},
+{
+  "_id": {
+    "$oid": "662253651f29d6ad299a4896"
+  },
+  "status": 1,
+  "super_admin": {
+    "$oid": "661114f4ad6de22d9ab907d3"
+  },
+  "created_by": {
+    "$oid": "661114f4ad6de22d9ab907d3"
+  },
+  "organization_name": "KPR COLLEGE",
+  "organization_logo": "",
+  "valid_from": {
+    "$date": "2024-03-30T00:00:00.000Z"
+  },
+  "valid_to": {
+    "$date": "2024-07-30T00:00:00.000Z"
+  },
+  "email_id": "karthikeyansrinivasalu@gmail.com",
+  "mobile_no": "0000000000",
+  "country": "India",
+  "state": "Tamilnadu",
+  "city": "Chennai",
+  "address": "saASasas",
+  "social_profile": [
+    "https://www.youtube.com/watch?v=k6604pV65KY&list=RDYVkUvmDQ3HY&index=27"
+  ],
+  "linkedin_url": "",
+  "email_template": [],
+  "__v": 0
+}]

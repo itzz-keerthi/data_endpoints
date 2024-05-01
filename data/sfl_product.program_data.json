@@ -1,0 +1,567 @@
+[{
+  "_id": {
+    "$oid": "6618e59d92af52ab5335218d"
+  },
+  "super_admin": {
+    "$oid": "661114f4ad6de22d9ab907d3"
+  },
+  "status": 1,
+  "program_name": "javascript",
+  "program_short_description": "",
+  "program_description": "",
+  "modules_list": [
+    {
+      "module_name": "Data Science",
+      "status": 1,
+      "_id": {
+        "$oid": "6618e59d92af52ab5335218a"
+      },
+      "module_start_date": {
+        "$date": "2024-03-23T00:00:00.000Z"
+      },
+      "module_end_date": {
+        "$date": "2024-03-23T00:00:00.000Z"
+      },
+      "order": 0,
+      "module_description": "",
+      "activity_list": [
+        {
+          "_id": {
+            "$oid": "6618e59d92af52ab5335218b"
+          },
+          "type": "video",
+          "status": 1,
+          "data": [],
+          "order": 0,
+          "activity_start_date": {
+            "$date": "2024-03-23T00:00:00.000Z"
+          },
+          "activity_end_date": {
+            "$date": "2024-03-23T00:00:00.000Z"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "6618e59d92af52ab5335218c"
+          },
+          "type": "test",
+          "status": 1,
+          "data": [],
+          "order": 0,
+          "activity_start_date": {
+            "$date": "2024-03-23T00:00:00.000Z"
+          },
+          "activity_end_date": {
+            "$date": "2024-03-23T00:00:00.000Z"
+          }
+        }
+      ]
+    }
+  ],
+  "organization_ids": [
+    {
+      "org_id": {
+        "$oid": "66111924cc8e95e69c0ba153"
+      },
+      "count": 4
+    }
+  ],
+  "program_start_date": {
+    "$date": "2024-03-24T00:00:00.000Z"
+  },
+  "program_end_date": {
+    "$date": "2024-04-03T00:00:00.000Z"
+  },
+  "created_at": {
+    "$date": "2024-03-24T00:00:00.000Z"
+  },
+  "created_by": {
+    "$oid": "661114f4ad6de22d9ab907d3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6618e59d92af52ab53352191"
+  },
+  "super_admin": {
+    "$oid": "661114f4ad6de22d9ab907d3"
+  },
+  "status": 1,
+  "program_name": "typescript",
+  "program_short_description": "",
+  "program_description": "",
+  "modules_list": [
+    {
+      "module_name": "Data Science",
+      "status": 1,
+      "_id": {
+        "$oid": "6618e59d92af52ab5335218e"
+      },
+      "module_start_date": {
+        "$date": "2024-03-23T00:00:00.000Z"
+      },
+      "module_end_date": {
+        "$date": "2024-03-23T00:00:00.000Z"
+      },
+      "order": 0,
+      "module_description": "",
+      "activity_list": [
+        {
+          "_id": {
+            "$oid": "6618e59d92af52ab5335218f"
+          },
+          "type": "video",
+          "status": 1,
+          "data": [],
+          "order": 0,
+          "activity_start_date": {
+            "$date": "2024-03-23T00:00:00.000Z"
+          },
+          "activity_end_date": {
+            "$date": "2024-03-23T00:00:00.000Z"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "6618e59d92af52ab53352190"
+          },
+          "type": "test",
+          "status": 1,
+          "data": [],
+          "order": 0,
+          "activity_start_date": {
+            "$date": "2024-03-23T00:00:00.000Z"
+          },
+          "activity_end_date": {
+            "$date": "2024-03-23T00:00:00.000Z"
+          }
+        }
+      ]
+    }
+  ],
+  "organization_ids": [
+    {
+      "org_id": {
+        "$oid": "66111924cc8e95e69c0ba154"
+      },
+      "count": 4
+    }
+  ],
+  "program_start_date": {
+    "$date": "2024-03-24T00:00:00.000Z"
+  },
+  "program_end_date": {
+    "$date": "2024-04-04T00:00:00.000Z"
+  },
+  "created_at": {
+    "$date": "2024-03-24T00:00:00.000Z"
+  },
+  "created_by": {
+    "$oid": "661114f4ad6de22d9ab907d3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6618e59d92af52ab53352195"
+  },
+  "super_admin": {
+    "$oid": "661114f4ad6de22d9ab907d3"
+  },
+  "status": 1,
+  "program_name": "HTML/CSS",
+  "program_short_description": "",
+  "program_description": "",
+  "modules_list": [
+    {
+      "module_name": "Data Science",
+      "status": 1,
+      "_id": {
+        "$oid": "6618e59d92af52ab53352192"
+      },
+      "module_start_date": {
+        "$date": "2024-03-23T00:00:00.000Z"
+      },
+      "module_end_date": {
+        "$date": "2024-03-23T00:00:00.000Z"
+      },
+      "order": 0,
+      "module_description": "",
+      "activity_list": [
+        {
+          "_id": {
+            "$oid": "6618e59d92af52ab53352193"
+          },
+          "type": "video",
+          "status": 1,
+          "data": [],
+          "order": 0,
+          "activity_start_date": {
+            "$date": "2024-03-23T00:00:00.000Z"
+          },
+          "activity_end_date": {
+            "$date": "2024-03-23T00:00:00.000Z"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "6618e59d92af52ab53352194"
+          },
+          "type": "test",
+          "status": 1,
+          "data": [],
+          "order": 0,
+          "activity_start_date": {
+            "$date": "2024-03-23T00:00:00.000Z"
+          },
+          "activity_end_date": {
+            "$date": "2024-03-23T00:00:00.000Z"
+          }
+        }
+      ]
+    }
+  ],
+  "organization_ids": [
+    {
+      "org_id": {
+        "$oid": "66111924cc8e95e69c0ba155"
+      },
+      "count": 4
+    }
+  ],
+  "program_start_date": {
+    "$date": "2024-03-24T00:00:00.000Z"
+  },
+  "program_end_date": {
+    "$date": "2024-04-02T00:00:00.000Z"
+  },
+  "created_at": {
+    "$date": "2024-03-24T00:00:00.000Z"
+  },
+  "created_by": {
+    "$oid": "661114f4ad6de22d9ab907d3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6618e59d92af52ab53352199"
+  },
+  "super_admin": {
+    "$oid": "661114f4ad6de22d9ab907d3"
+  },
+  "status": 1,
+  "program_name": "PHP",
+  "program_short_description": "",
+  "program_description": "",
+  "modules_list": [
+    {
+      "module_name": "Data Science",
+      "status": 1,
+      "_id": {
+        "$oid": "6618e59d92af52ab53352196"
+      },
+      "module_start_date": {
+        "$date": "2024-03-23T00:00:00.000Z"
+      },
+      "module_end_date": {
+        "$date": "2024-03-23T00:00:00.000Z"
+      },
+      "order": 0,
+      "module_description": "",
+      "activity_list": [
+        {
+          "_id": {
+            "$oid": "6618e59d92af52ab53352197"
+          },
+          "type": "video",
+          "status": 1,
+          "data": [],
+          "order": 0,
+          "activity_start_date": {
+            "$date": "2024-03-23T00:00:00.000Z"
+          },
+          "activity_end_date": {
+            "$date": "2024-03-23T00:00:00.000Z"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "6618e59d92af52ab53352198"
+          },
+          "type": "test",
+          "status": 1,
+          "data": [],
+          "order": 0,
+          "activity_start_date": {
+            "$date": "2024-03-23T00:00:00.000Z"
+          },
+          "activity_end_date": {
+            "$date": "2024-03-23T00:00:00.000Z"
+          }
+        }
+      ]
+    }
+  ],
+  "organization_ids": [
+    {
+      "org_id": {
+        "$oid": "66111924cc8e95e69c0ba156"
+      },
+      "count": 4
+    }
+  ],
+  "program_start_date": {
+    "$date": "2024-03-24T00:00:00.000Z"
+  },
+  "program_end_date": {
+    "$date": "2024-04-06T00:00:00.000Z"
+  },
+  "created_at": {
+    "$date": "2024-03-24T00:00:00.000Z"
+  },
+  "created_by": {
+    "$oid": "661114f4ad6de22d9ab907d3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6618e59d92af52ab5335219d"
+  },
+  "super_admin": {
+    "$oid": "661114f4ad6de22d9ab907d3"
+  },
+  "status": 1,
+  "program_name": "React js",
+  "program_short_description": "",
+  "program_description": "",
+  "modules_list": [
+    {
+      "module_name": "Data Science",
+      "status": 1,
+      "_id": {
+        "$oid": "6618e59d92af52ab5335219a"
+      },
+      "module_start_date": {
+        "$date": "2024-03-23T00:00:00.000Z"
+      },
+      "module_end_date": {
+        "$date": "2024-03-23T00:00:00.000Z"
+      },
+      "order": 0,
+      "module_description": "",
+      "activity_list": [
+        {
+          "_id": {
+            "$oid": "6618e59d92af52ab5335219b"
+          },
+          "type": "video",
+          "status": 1,
+          "data": [],
+          "order": 0,
+          "activity_start_date": {
+            "$date": "2024-03-23T00:00:00.000Z"
+          },
+          "activity_end_date": {
+            "$date": "2024-03-23T00:00:00.000Z"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "6618e59d92af52ab5335219c"
+          },
+          "type": "test",
+          "status": 1,
+          "data": [],
+          "order": 0,
+          "activity_start_date": {
+            "$date": "2024-03-23T00:00:00.000Z"
+          },
+          "activity_end_date": {
+            "$date": "2024-03-23T00:00:00.000Z"
+          }
+        }
+      ]
+    }
+  ],
+  "organization_ids": [
+    {
+      "org_id": {
+        "$oid": "66111924cc8e95e69c0ba157"
+      },
+      "count": 4
+    }
+  ],
+  "program_start_date": {
+    "$date": "2024-03-24T00:00:00.000Z"
+  },
+  "program_end_date": {
+    "$date": "2024-03-31T00:00:00.000Z"
+  },
+  "created_at": {
+    "$date": "2024-03-24T00:00:00.000Z"
+  },
+  "created_by": {
+    "$oid": "661114f4ad6de22d9ab907d3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6618e59d92af52ab533521a1"
+  },
+  "super_admin": {
+    "$oid": "661114f4ad6de22d9ab907d3"
+  },
+  "status": 0,
+  "program_name": "Node js",
+  "program_short_description": "",
+  "program_description": "",
+  "modules_list": [
+    {
+      "module_name": "Data Science",
+      "status": 1,
+      "_id": {
+        "$oid": "6618e59d92af52ab5335219e"
+      },
+      "module_start_date": {
+        "$date": "2024-03-23T00:00:00.000Z"
+      },
+      "module_end_date": {
+        "$date": "2024-03-23T00:00:00.000Z"
+      },
+      "order": 0,
+      "module_description": "",
+      "activity_list": [
+        {
+          "_id": {
+            "$oid": "6618e59d92af52ab5335219f"
+          },
+          "type": "video",
+          "status": 1,
+          "data": [],
+          "order": 0,
+          "activity_start_date": {
+            "$date": "2024-03-23T00:00:00.000Z"
+          },
+          "activity_end_date": {
+            "$date": "2024-03-23T00:00:00.000Z"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "6618e59d92af52ab533521a0"
+          },
+          "type": "test",
+          "status": 1,
+          "data": [],
+          "order": 0,
+          "activity_start_date": {
+            "$date": "2024-03-23T00:00:00.000Z"
+          },
+          "activity_end_date": {
+            "$date": "2024-03-23T00:00:00.000Z"
+          }
+        }
+      ]
+    }
+  ],
+  "organization_ids": [
+    {
+      "org_id": {
+        "$oid": "66111924cc8e95e69c0ba158"
+      },
+      "count": 4
+    }
+  ],
+  "program_start_date": {
+    "$date": "2024-03-24T00:00:00.000Z"
+  },
+  "program_end_date": {
+    "$date": "2024-04-04T00:00:00.000Z"
+  },
+  "created_at": {
+    "$date": "2024-03-24T00:00:00.000Z"
+  },
+  "created_by": {
+    "$oid": "661114f4ad6de22d9ab907d3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6618e59d92af52ab533521a5"
+  },
+  "super_admin": {
+    "$oid": "661114f4ad6de22d9ab907d3"
+  },
+  "status": 0,
+  "program_name": "Java",
+  "program_short_description": "",
+  "program_description": "",
+  "modules_list": [
+    {
+      "module_name": "Data Science",
+      "status": 1,
+      "_id": {
+        "$oid": "6618e59d92af52ab533521a2"
+      },
+      "module_start_date": {
+        "$date": "2024-03-23T00:00:00.000Z"
+      },
+      "module_end_date": {
+        "$date": "2024-03-23T00:00:00.000Z"
+      },
+      "order": 0,
+      "module_description": "",
+      "activity_list": [
+        {
+          "_id": {
+            "$oid": "6618e59d92af52ab533521a3"
+          },
+          "type": "video",
+          "status": 1,
+          "data": [],
+          "order": 0,
+          "activity_start_date": {
+            "$date": "2024-03-23T00:00:00.000Z"
+          },
+          "activity_end_date": {
+            "$date": "2024-03-23T00:00:00.000Z"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "6618e59d92af52ab533521a4"
+          },
+          "type": "test",
+          "status": 1,
+          "data": [],
+          "order": 0,
+          "activity_start_date": {
+            "$date": "2024-03-23T00:00:00.000Z"
+          },
+          "activity_end_date": {
+            "$date": "2024-03-23T00:00:00.000Z"
+          }
+        }
+      ]
+    }
+  ],
+  "organization_ids": [
+    {
+      "org_id": {
+        "$oid": "66111924cc8e95e69c0ba159"
+      },
+      "count": 4
+    }
+  ],
+  "program_start_date": {
+    "$date": "2024-03-24T00:00:00.000Z"
+  },
+  "program_end_date": {
+    "$date": "2024-04-03T00:00:00.000Z"
+  },
+  "created_at": {
+    "$date": "2024-03-24T00:00:00.000Z"
+  },
+  "created_by": {
+    "$oid": "661114f4ad6de22d9ab907d3"
+  }
+}]

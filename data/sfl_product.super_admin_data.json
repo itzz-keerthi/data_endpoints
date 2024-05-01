@@ -1,0 +1,182 @@
+[{
+  "_id": {
+    "$oid": "661114f4ad6de22d9ab907d3"
+  },
+  "city": "Chennai",
+  "email_id": "ACS@gmail.com",
+  "status": 1,
+  "role": "super_admin",
+  "permission": [
+    "assign_learners",
+    "unassign_learners",
+    "view_program_analytics",
+    "view_program_settings",
+    "modify_program_settings",
+    "view_program",
+    "create_program",
+    "edit_program",
+    "delete_program",
+    "review_assignment",
+    "view_assessment",
+    "create_assessment",
+    "edit_assessment",
+    "delete_assessment",
+    "enroll_learners",
+    "manage_access",
+    "unenroll_learners",
+    "edit_profile",
+    "global_settings",
+    "white_labelling",
+    "email_templates",
+    "notice_board",
+    "assessment_engine_selection",
+    "view_analytics",
+    "download_analytics_reports",
+    "add_users",
+    "remove_users",
+    "manage_users",
+    "add_bu",
+    "manage_bu"
+  ],
+  "created_by": {
+    "$oid": "66123fc04c42127bb0a65750"
+  },
+  "valid_from": {
+    "$date": "2024-03-30T00:00:00.000Z"
+  },
+  "valid_to": {
+    "$date": "2024-07-30T00:00:00.000Z"
+  },
+  "company_name": "ACS",
+  "admin_name": "ACSadmin",
+  "country": "India",
+  "state": "Tamilnadu",
+  "username": "ACS@gmail.com",
+  "password": "$2b$12$EW7zek37jQlONnGKrHH.k.VFKQJPHXY2SBJftB0ertT6Iqmwt5UbS",
+  "mobile_no": "1234567890",
+  "profile_pic": "https://acstechnologies.co.in//assets/img/acs_logo_new.png",
+  "address": "",
+  "social_profile": [],
+  "linkedin_url": "",
+  "company_logo": "https://acstechnologies.co.in//assets/img/acs_logo_new.png"
+},
+{
+  "_id": {
+    "$oid": "661114f4ad6de22d9ab907d4"
+  },
+  "city": "Chennai",
+  "email_id": "TCS@gmail.com",
+  "status": 1,
+  "role": "super_admin",
+  "permission": [
+    "assign_learners",
+    "unassign_learners",
+    "view_program_analytics",
+    "view_program_settings",
+    "modify_program_settings",
+    "view_program",
+    "create_program",
+    "edit_program",
+    "delete_program",
+    "review_assignment",
+    "view_assessment",
+    "create_assessment",
+    "edit_assessment",
+    "delete_assessment",
+    "enroll_learners",
+    "manage_access",
+    "unenroll_learners",
+    "edit_profile",
+    "global_settings",
+    "white_labelling",
+    "email_templates",
+    "notice_board",
+    "assessment_engine_selection",
+    "view_analytics",
+    "download_analytics_reports",
+    "add_users",
+    "remove_users",
+    "manage_users"
+  ],
+  "created_by": {
+    "$oid": "66123fc04c42127bb0a65750"
+  },
+  "valid_from": {
+    "$date": "2024-03-30T00:00:00.000Z"
+  },
+  "valid_to": {
+    "$date": "2024-08-30T00:00:00.000Z"
+  },
+  "company_name": "TCS",
+  "admin_name": "TCSadmin",
+  "country": "India",
+  "state": "Tamilnadu",
+  "username": "TCS@gmail.com",
+  "password": "$2b$12$fJLFq3Tgmftoyhg7cU0MiO.lab8C0.OSRauG7wN4KG/FyRhZSbVuW",
+  "mobile_no": "1234567891",
+  "profile_pic": "",
+  "address": "",
+  "social_profile": [],
+  "linkedin_url": "",
+  "company_logo": ""
+},
+{
+  "_id": {
+    "$oid": "661114f4ad6de22d9ab907d5"
+  },
+  "city": "Chennai",
+  "email_id": "ZOHO@gmail.com",
+  "status": 1,
+  "role": "super_admin",
+  "permission": [
+    "assign_learners",
+    "unassign_learners",
+    "view_program_analytics",
+    "view_program_settings",
+    "modify_program_settings",
+    "view_program",
+    "create_program",
+    "edit_program",
+    "delete_program",
+    "review_assignment",
+    "view_assessment",
+    "create_assessment",
+    "edit_assessment",
+    "delete_assessment",
+    "enroll_learners",
+    "manage_access",
+    "unenroll_learners",
+    "edit_profile",
+    "global_settings",
+    "white_labelling",
+    "email_templates",
+    "notice_board",
+    "assessment_engine_selection",
+    "view_analytics",
+    "download_analytics_reports",
+    "add_users",
+    "remove_users",
+    "manage_users"
+  ],
+  "created_by": {
+    "$oid": "66123fc04c42127bb0a65750"
+  },
+  "valid_from": {
+    "$date": "2024-03-30T00:00:00.000Z"
+  },
+  "valid_to": {
+    "$date": "2024-08-24T00:00:00.000Z"
+  },
+  "company_name": "ZOHO",
+  "admin_name": "ZOHOadmin",
+  "country": "India",
+  "state": "Tamilnadu",
+  "username": "ZOHO@gmail.com",
+  "password": "$2b$12$f5o03x4f10hB6HCJGujA0uSoHWkrIueFRNE8pN4ibkE/4syP3C/mW",
+  "mobile_no": "1234567892",
+  "profile_pic": "",
+  "address": "",
+  "social_profile": [],
+  "linkedin_url": "",
+  "company_logo": ""
+}]

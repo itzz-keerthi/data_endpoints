@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "66123fc04c42127bb0a65750"
+  },
+  "sfl_user_name": "adminuser",
+  "sfl_password": "2345678",
+  "sfl_company": "ACS",
+  "mobile_number": {
+    "$numberLong": "9952308901"
+  },
+  "email_id": "adminsfl@gmail.com",
+  "company_logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.acsmb.com%2F&psig=AOvVaw1BxjAGfIObDMjhM0f_6UD3&ust=1710844931243000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPicupXQ_YQDFQAAAAAdAAAAABAE",
+  "created_date": "2024-03-13"
+}]
