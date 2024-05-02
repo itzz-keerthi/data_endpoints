@@ -35,3 +35,8 @@ router.get('/subadmindata',(req,res)=>{
 router.get('/superadmindata',(req,res)=>{
     res.sendFile('data/sfl_product.super_admin_data.json',{root:__dirname});
 })
+
+router.get('/report',(req,res)=>{
+    res.sendFile('data/report_data.json',{root:__dirname});
+})
+
